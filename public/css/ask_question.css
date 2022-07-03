@@ -1,0 +1,15 @@
+* {
+    color:black;
+    font-weight:bold;
+}
+
+hr {
+    background-color: rgb(255, 0, 64);
+}
+body {
+    background-color:#582933;
+}
+
+#formulary_question {
+    margin-top:5vh;
+}
